@@ -1,4 +1,4 @@
-# Repositório do Desafio de Projeto sobre ** GitHub ** da Dio
+# Repositório do Desafio de Projeto sobre **GitHub** da Dio
 Desafio de Projeto sobre GitHub 0 Potência Tech Angular Developer powered by IFood
 
 ## LINKS ÚTEIS:
