@@ -1,0 +1,21 @@
+	Git é uma ferramenta de versionamento de código : https://git-scm.com/downloads
+	GitHub é um repositório em nuvem para todos arquivos do prejeto;
+	GitBash é um console que permite executar comandos via terminal para controle e manipulação dos arquivos de dados.
+
+	Principais comandos: 
+	
+		$ git --version
+		$ git init
+		$ git add .
+		$ git status
+		$ git config --global user.name " meuNome"
+		$ git config --global user.email " MeuEmail@blablabla.com"
+		$ git config --global credential.helper store ( usar quando houver erro ao realizar commit)
+		$ git commit -m "meu primeiro commit"
+		$ git push -u origim maim ( ou master) (ou outra branch)
+		
+		$ git clone https://github ....
+		$ git remote -v
+
+		$ git checkout -b "kriguer_branch"  ( cria nova branch no código baixado)
+		
